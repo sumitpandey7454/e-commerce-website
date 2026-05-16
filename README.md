@@ -307,11 +307,7 @@ If you like this project:
 
 ---
 
-# 📄 License
 
-This project is licensed under the **MIT License**.
-
----
 
 <div align="center">
 
